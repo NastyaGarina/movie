@@ -1,0 +1,5 @@
+.textError {
+    display: flex;
+    justify-content: center;
+    font-size: 35px;
+}

@@ -1,0 +1,22 @@
+.image {
+    width: 100vw;
+    height: 100vh;
+}
+.splashScreen {
+    position: relative;
+    width: 100%;
+}
+.button {
+    margin: 110px 0;
+    color: white;
+    padding: 0 15px;
+    position: absolute;
+    top: 200px;
+    left: 500px;
+    background-color: red;
+    border-radius: 18px;
+    font-size: 3.125rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
